@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueLynxUs
 - 👀 I’m, myself, interested in the power of Go, Python, Swift.
-- 🌱 I’m currently learning and working on implementing & handling a big amount of transactions running on my customers' platforms.
+- I am working on Metaverse Technology especially gaming engine such as Unreal Engine, Unity.
 - 📫 Anyone can reach me at BlueLynxUs@gmail.com.
 
 <!---
